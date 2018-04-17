@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/whyjoin123/worm/issues"
   },
-  "homepage": "https://github.com/whyjoin123/worm#readme"
+  "homepage": "https://github.com/whyjoin123/worm#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
