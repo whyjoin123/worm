@@ -1,0 +1,19 @@
+{
+  "name": "worm",
+  "version": "1.0.0",
+  "description": "node写的一个爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyjoin123/worm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyjoin123/worm/issues"
+  },
+  "homepage": "https://github.com/whyjoin123/worm#readme"
+}
